@@ -1,3 +1,4 @@
+proxies:
   - {name: "[SS] 距离下次重置剩余：8 天", server: 123.123.213.213, port: 53, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
   - {name: "[SS] 去除4条不合适线路", server: 123.123.213.213, port: 53, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
   - {name: "[SS] 跳转域名{请勿连接}:nflink.info", server: 123.123.213.213, port: 53, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
