@@ -1,0 +1,39 @@
+  - {name: "[SS] 距离下次重置剩余：8 天", server: 123.123.213.213, port: 53, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 去除4条不合适线路", server: 123.123.213.213, port: 53, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 跳转域名{请勿连接}:nflink.info", server: 123.123.213.213, port: 53, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[VLESS] [Vless] 日本 [直连]", server: jpcloudsjp-1.outleft-hy.xyz, port: 443, type: vless, uuid: d9c5ab1c-c648-426c-bda4-1af3d47be858, tls: true, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.microsoft.com, client-fingerprint: ios, reality-opts: {public-key: gThuDXevnythoIRLiCGP2go9z3WvSjV5HAtzVw4vwmg, short-id: 9e391f50}, udp: true}
+  - {name: "[SS] 俄罗斯 B", server: edir2end.cloud2orbit.com, port: 1025, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 新加坡 C", server: siusumaisa-b2.cloud2orbit.com, port: 631, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 新加坡 D", server: siusumaisa-b2.cloud2orbit.com, port: 746, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 新加坡 E", server: siusumaisa-b2.cloud2orbit.com, port: 749, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 台湾", server: orbittwcn01.orbit5cloud.com, port: 721, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] HKG A", server: hk04redir.ultra1stand.com, port: 654, type: ss, cipher: 2022-blake3-aes-128-gcm, password: OTZmZmZkZTMwOTkwMDFkMQ==:ZDljNWFiMWMtYzY0OC00Mg==, udp: true}
+  - {name: "[SS] HKG B", server: eshkdir-a.ultra1stand.com, port: 643, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] HKG D", server: cnredirhk-03.ultra1stand.com, port: 1054, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] HKG E", server: eshkdir-a.ultra1stand.com, port: 645, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] HKG F", server: dircloudhk-3.ultra2max.com, port: 1050, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] HKG G", server: dircloudhk-3.ultra2max.com, port: 1053, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] HKG H", server: hk04redir.ultra1stand.com, port: 655, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] HKG I", server: dircloudhk-3.ultra2max.com, port: 1056, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] HKG M", server: cnredirhk-03.ultra1stand.com, port: 1055, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 美国 A", server: c1standca-a.cloud3orbits.com, port: 581, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 美国 B", server: c1standca-a.cloud3orbits.com, port: 582, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 美国 C", server: c1standca-a.cloud3orbits.com, port: 583, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 美国 D", server: c1standca-a.cloud3orbits.com, port: 584, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 美国 E", server: c1standca-a.cloud3orbits.com, port: 585, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 台湾 B", server: orbittwcn01.orbit5cloud.com, port: 742, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 台湾 C", server: orbittwcn01.orbit5cloud.com, port: 753, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 台湾 D", server: orbittwcn01.orbit5cloud.com, port: 722, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 台湾 E", server: orbittwcn01.orbit5cloud.com, port: 745, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 台湾 F", server: orbittwcn01.orbit5cloud.com, port: 1012, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 台湾 G", server: orbittwcn01.orbit5cloud.com, port: 710, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 台湾 H", server: orbittwcn01.orbit5cloud.com, port: 670, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 加拿大", server: edir2end.cloud2orbit.com, port: 1069, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 英国 A", server: edir2end.cloud2orbit.com, port: 1055, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 英国 B", server: edir2end.cloud2orbit.com, port: 1057, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 西班牙", server: edir2end.cloud2orbit.com, port: 1063, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 印度", server: edir2end.cloud2orbit.com, port: 1053, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 土耳其", server: edir2end.cloud2orbit.com, port: 1059, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 意大利", server: edir2end.cloud2orbit.com, port: 1061, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 荷兰", server: edir2end.cloud2orbit.com, port: 1065, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
+  - {name: "[SS] 德国", server: edir2end.cloud2orbit.com, port: 1067, type: ss, cipher: aes-128-gcm, password: d9c5ab1c-c648-426c-bda4-1af3d47be858, udp: true}
